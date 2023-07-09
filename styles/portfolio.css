@@ -118,3 +118,18 @@ nav a {
 .about-info{
     text-align: center;
 }
+#what_i_do{
+    padding: 30px 150px;
+}
+/*skill*/
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px black;
+    
+}
