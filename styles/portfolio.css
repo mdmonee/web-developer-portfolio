@@ -104,6 +104,8 @@ nav a {
     text-align: center;
     font-size: 35px;
     font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 100px;
 
 }
 .section-description{
@@ -134,8 +136,27 @@ nav a {
     
 }
 /*Resume*/
-.resume_column-title{
+.resume-column-title{
     color: #000000;
     font-size: 30px;
     font-weight: 700;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.resume-item-institute{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
